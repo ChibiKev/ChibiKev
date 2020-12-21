@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <br/>
 
 I'm [Kevin Chen](https://www.linkedin.com/in/kevinchen07cd/), a recent college graduate.
-
 <br/>
 
 ### I Mostly Work With
@@ -45,17 +44,10 @@ I'm [Kevin Chen](https://www.linkedin.com/in/kevinchen07cd/), a recent college g
 
 <br/>
 
-**NOTE:** Most Used Languages is just a GitHub metric of languages in which i have the most code on GitHub.
+**NOTE:** Most Used Languages is just a GitHub metric of languages in which I have the most code on GitHub.
 
-<p align="center">
-<a href="https://github.com/ChibiKev">
-  <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ChibiKev&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard&hide_border=true" />
-</a>
-<a href="https://github.com/ChibiKev">
-  <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChibiKev&hide=java&langs_count=8&layout=compact&theme=default_repocard&hide_border=true" />
-</a>
-</p>
-
+[![ChibiKev's Github Stats](https://github-readme-stats.vercel.app/api?username=ChibiKev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/ChibiKev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChibiKev&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/ChibiKev)
 <br/>
 
 ### 📫 Let's Get In Touch
