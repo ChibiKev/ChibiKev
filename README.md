@@ -63,13 +63,13 @@ I'm [Kevin Chen](https://www.linkedin.com/in/kevinchen07cd/), a recent college g
 <br/>
 
 <a href='https://www.linkedin.com/in/kevinchen07cd/'>
-<img align="left" alt="Kevin Chen's Linkedin" width="28" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/main/icons/linkedin.svg" />
+<img align="left" alt="Kevin Chen's Linkedin" width="28" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/master/icons/linkedin.svg" />
 </a>
 
 <a href='https://www.github.com/ChibiKev'>
-<img align="left" alt="Kevin Chen's Github" width="28" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/main/icons/github.svg" />
+<img align="left" alt="Kevin Chen's Github" width="28" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/master/icons/github.svg" />
 </a>
 
 <a href="mailto:kevinchen.07cd@gmail.com">
-<img align="left" width="28" alt="Kevin Chen's Mail" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/main/icons/gmail.svg" />
+<img align="left" width="28" alt="Kevin Chen's Mail" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/master/icons/gmail.svg" />
 </a>
