@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 -->
 
 I'm [Kevin Chen](https://www.linkedin.com/in/kevinchen07cd/), a recent college graduate.
-- 🔭 I’m currently working on building myself by working on new projects and/or teaching others about what I have learned.
-- 🌱 I’m currently learning how to be a full stack web developer.
-- 👯 I’m looking to collaborate on anything. I'm always interested in starting a new project.
-- 💬 Ask me about anything [here](https://github.com/ChibiKev/ChibiKev/issues)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kevinchen07cd/), [E-mail](mailto:kevinchen.07cd@gmail.com)
-- ⚡ Fun fact: ♥️ Anime and Gaming 🎮
+- 🔭 I’m currently working on new projects and teaching others about what I have learned.
+- 🌱 I’m currently learning different technologies to help widen my skill sets and to achieve my goal in becoming a successful software engineer and/or full stack web developer.
+- 👯 I’m looking to collaborate on anything. I'm always interested in starting a new project or working on existing ideas.
+- 💬 Ask me about anything [here](https://github.com/ChibiKev/ChibiKev/issues).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kevinchen07cd/), [E-mail](mailto:kevinchen.07cd@gmail.com).
+- ⚡ Fun fact: Aside from software, I'm also interested in hardware, specifically, computer hardware and circuitry. I enjoy seeing how the parts connect and work together to achieve a certain task. Feel free to also check out my [12 Hour Digial Clock Project](https://chibikev.github.io/Projects/Digital-Clock.html).
 
 ### What I Have Worked With:
-<b>Programming Languages</b><br/>
+<b>Programming Languages and Runtime Environments</b><br/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
-<b>Frameworks</b><br/>
+<b>Frameworks and Libraries</b><br/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
