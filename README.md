@@ -30,7 +30,7 @@ I'm [Kevin](https://www.linkedin.com/in/kevinchen07cd/), a Software Engineer at 
 - 👯 I’m looking to collaborate on just about anything. I'm always interested in starting a new project or working on existing ideas.
 - 💬 Ask me about anything [here](https://github.com/ChibiKev/ChibiKev/issues).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kevinchen07cd/), [E-mail](mailto:kevinchen.07cd@gmail.com).
-- ⚡ Fun fact: Aside from software, I'm also interested in hardware, specifically, computer hardware and circuitry. I enjoy seeing how the parts connect and work together to achieve a certain task. Feel free to also check out my [12 Hour Digial Clock Project](https://chibikev.github.io/Projects/Digital-Clock.html), where I've used serveral CMOS IC to create a 12-hour digital clock.
+- ⚡ Fun fact: Aside from software, I'm also interested in hardware, specifically, computer hardware and circuitry. I enjoy seeing how the parts connect and work together to achieve a certain task. Feel free to also check out my [12 Hour Digial Clock Project](https://chibikev.github.io/Projects/Digital-Clock.html), where I've used several CMOS IC to create a 12-hour digital clock.
 
 <details>
   <summary><h3> 💻 Expand To View Technologies I've Worked With </h3></summary>
@@ -91,7 +91,6 @@ I'm [Kevin](https://www.linkedin.com/in/kevinchen07cd/), a Software Engineer at 
 </details>
 <details>
   <summary><h3> &#x1f4c8; Expand To View GitHub Stats</h3></summary>
-  <b>NOTE:</b> Most Used Languages is just a GitHub metric of languages in which I have the most code on GitHub.
   <p align="center">
     <a href="https://github.com/ChibiKev">
       <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ChibiKev&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
@@ -101,16 +100,3 @@ I'm [Kevin](https://www.linkedin.com/in/kevinchen07cd/), a Software Engineer at 
     </a>
   </p>
 </details>
-
-### 📫 Let's Get In Touch
-<a href='https://www.linkedin.com/in/kevinchen07cd/'>
-<img align="left" alt="Kevin Chen's Linkedin" width="28" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/master/icons/linkedin.svg" />
-</a>
-
-<a href='https://www.github.com/ChibiKev'>
-<img align="left" alt="Kevin Chen's Github" width="28" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/master/icons/github.svg" />
-</a>
-
-<a href="mailto:kevinchen.07cd@gmail.com">
-<img align="left" width="28" alt="Kevin Chen's Mail" src="https://raw.githubusercontent.com/ChibiKev/ChibiKev/master/icons/gmail.svg" />
-</a>
