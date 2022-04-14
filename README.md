@@ -33,7 +33,7 @@ I'm [Kevin](https://www.linkedin.com/in/kevinchen07cd/), a Software Engineer at 
 - ⚡ Fun fact: Aside from software, I'm also interested in hardware, specifically, computer hardware and circuitry. I enjoy seeing how the parts connect and work together to achieve a certain task. Feel free to also check out my [12 Hour Digial Clock Project](https://chibikev.github.io/Projects/Digital-Clock.html), where I've used serveral CMOS IC to create a 12-hour digital clock.
 
 <details>
-  <summary><h4> 💻 Expand To View Technologies I've Worked With </h4></summary>
+  <summary><h3> 💻 Expand To View Technologies I've Worked With </h3></summary>
   <b>Programming Languages and Technologies</b><br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -90,7 +90,7 @@ I'm [Kevin](https://www.linkedin.com/in/kevinchen07cd/), a Software Engineer at 
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </details>
 <details>
-  <summary><h4> &#x1f4c8; Expand To View GitHub Stats</h4></summary>
+  <summary><h3> &#x1f4c8; Expand To View GitHub Stats</h3></summary>
   <b>NOTE:</b> Most Used Languages is just a GitHub metric of languages in which I have the most code on GitHub.
   <p align="center">
     <a href="https://github.com/ChibiKev">
