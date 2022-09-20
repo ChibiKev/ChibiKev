@@ -1,11 +1,11 @@
 [![Website](https://img.shields.io/badge/Website-ChibiKev.github.io-informational?style=flat&color=black&logo=GitHub&logoColor=white)](https://ChibiKev.github.io) 
 [![LinkedIn](https://img.shields.io/badge/-kevinchen07cd-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevinchen07cd/) 
 [![Gmail](https://img.shields.io/badge/-kevinchen.07cd@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinchen.07cd@gmail.com) 
-[![visitors](https://badges.pufler.dev/visits/ChibiKev/ChibiKev?logo=GitHub&label=visits&color=success&logoColor=white&style=flat)](https://github.com/ChibiKev) 
+[![Visitors](https://komarev.com/ghpvc/?username=ChibiKev&style=plastic&label=Visitors&logoColor=white&style=flat)](https://github.com/ChibiKev) 
 [![ProfileUpdate](https://img.shields.io/github/last-commit/ChibiKev/ChibiKev?label=profile%20updated&style=flat)](https://github.com/ChibiKev)
 <div align="center">
   <h2>
-    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />!
+    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!
   </h2>
 </div>
 
@@ -34,7 +34,8 @@ I'm [Kevin](https://www.linkedin.com/in/kevinchen07cd/), a Software Engineer at 
 
 <details>
   <summary><h3> 💻 Expand To View Technologies I've Worked With </h3></summary>
-  <b>Programming Languages and Technologies</b><br/>
+  <b>Programming Languages and Technologies</b>
+  <br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,8 +43,9 @@ I'm [Kevin](https://www.linkedin.com/in/kevinchen07cd/), a Software Engineer at 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <br/>
-  <b>Others (Frameworks and Libraries)</b><br/>
+  <br/><br/>
+  <b>Others (Frameworks and Libraries)</b>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
@@ -59,34 +61,39 @@ I'm [Kevin](https://www.linkedin.com/in/kevinchen07cd/), a Software Engineer at 
   <br/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
-  <br/>
-  <b>Databases</b><br/>
+  <br/><br/>
+  <b>Databases</b>
+  <br/><br/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <br/>
-  <b>Cloud</b><br/>
+  <br/><br/>
+  <b>Cloud</b>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"/>
-  <br/>
-  <b>Version Control</b><br/>
+  <br/><br/>
+  <b>Version Control</b>
+  <br/><br/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <br/>
-  <b>IDE</b><br/>
+  <br/><br/>
+  <b>IDE</b>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
-  <br/>
-  <b>Design</b><br/>
+  <br/><br/>
+  <b>Design</b>
+  <br/><br/>
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </details>
 <details>
